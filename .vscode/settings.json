@@ -1,0 +1,10 @@
+{
+  "cmake.configureOnOpen": true,
+  "cmake.buildDirectory": "${workspaceFolder}/build",
+  "cmake.preferredGenerators": [
+    "Ninja"
+  ],
+  "files.associations": {
+    "header.h": "c"
+  }
+}

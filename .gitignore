@@ -1,0 +1,39 @@
+
+# CMake and build files
+/build/
+/install/
+CMakeCache.txt
+CMakeLists.txt.user
+CMakeFiles/
+cmake_install.cmake
+compile_commands.json
+
+# vcpkg
+/vcpkg_installed/
+/vcpkg/
+
+# Visual Studio Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Visual Studio
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.suo
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Executables
+*.exe
+*.out
+*.dll
+*.so
+*.lib
+*.a
